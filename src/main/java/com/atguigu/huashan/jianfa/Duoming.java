@@ -7,9 +7,14 @@ public class Duoming {
         System.out.println("夺命连环三仙剑");
         System.out.println("夺命连环三仙剑");
         System.out.println("夺命连环三仙剑");
+        System.out.println("夺命连环三仙剑");
+        System.out.println("气宗剑法好");
+        System.out.println("气宗剑法好");
+        System.out.println("气宗剑法好");
+        System.out.println("气宗剑法好");
         System.out.println("剑宗剑法好");
         System.out.println("剑宗剑法好");
-        System.out.println("剑宗剑法好");
+        System.out.println("fafad剑宗剑法好");
         System.out.println("剑宗剑法好");
     }
 }
